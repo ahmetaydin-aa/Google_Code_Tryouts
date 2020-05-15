@@ -64,5 +64,5 @@ class MinesweeperBoard:
 
 
 if __name__ == "__main__":
-    board = MinesweeperBoard(100, 100, 999)
+    board = MinesweeperBoard(100, 100, 9999)
     board.print_board()
